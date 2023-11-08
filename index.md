@@ -35,4 +35,4 @@ Here users are able to report any issues or inaccurate answers with the AI chat 
 <img src="public/report.png">
 
 # Team
-This application is designed, implemented, and maintained by [Kaylee Agorilla](https://github.com/kayleeagorilla/), [Malisa Lo](https://github.com/malisalo/), and [Micah Tilton](https://github.com/micahtilton/).
+This application is designed, implemented, and maintained by [Kaylee Agorilla](https://kayleeagorilla.github.io/), [Malisa Lo](https://malisalo.github.io/), and [Micah Tilton](https://micahtilton.github.io/).
