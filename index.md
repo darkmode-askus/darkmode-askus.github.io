@@ -4,7 +4,8 @@ Problem: The current UH ITS AskUs webpage has an outdated search system which ma
 Solution: Our team will create a ChatBot with the use of modern AI tools that will improve on the current search functionality. This tool will allow users to find the answers they need using conversational language without the need for a Help Desk assistant. There will be an FAQ section for users to submit questions that the ChatBot was not able to answer correctly. This Chatbot will allow users to get answers to their questions anytime and anywhere. 
 
 <h1>User's Guide</h1>
-## Landing Page
+
+## Landing
 <img src="public/landing.png">
 Here the user is able to receive announcements and ITS resources that they can access. 
 
