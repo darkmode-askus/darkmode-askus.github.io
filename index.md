@@ -6,11 +6,7 @@ Solution: Our team will create a ChatBot with the use of modern AI tools that wi
 <h1>User's Guide</h1>
 
 ## Landing
-<<<<<<< HEAD
 Here the user is able to receive announcements and ITS resources that they can access.
-=======
-Here the user is able to receive announcements and ITS resources that they can access. 
->>>>>>> 42177f22c116fae2e39f456671ba6da04cf737ea
 <img src="public/landing.png">
 
 ## Log In Page
@@ -18,28 +14,18 @@ The user needs to login in order to use the chatbot and post questions on the FA
 <img src="public/login.png">
 
 ## Chatbot
-<<<<<<< HEAD
 Here the user can ask the chatbot any questions relating to ITS. The chatbot will produce an answer from the ITS documents and send it to the user.
-=======
-Here the user can ask the chatbot any questions relating to ITS. The chatbot will produce an answer from the ITS documents and send it to the user. 
->>>>>>> 42177f22c116fae2e39f456671ba6da04cf737ea
 <img src="public/chatbot.png">
 
 ## FAQ Page
 All of the frequently asked questions and answers will be posted on this page. Answers will be provided by the admin.
 <img src="public/faq.png">
 
-<<<<<<< HEAD
 ## Forum Page
 Users will able to post their experiences or issues with the chatbot. The users can also post additional ITS questions that require more assistance. These posts can be answered by other users at UH. 
+<img src="public/forum.png">
 
 ## Report Page
 Here users are able to report any issues or inaccurate answers with the AI chat bot.
 <img src="public/report.png">
-=======
-## Report Page
-Here users are able to report any issues or inaccurate answers with the AI chat bot.
-<img src="public/faq.png">
 
-
->>>>>>> 42177f22c116fae2e39f456671ba6da04cf737ea
