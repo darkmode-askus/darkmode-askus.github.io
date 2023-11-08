@@ -1,9 +1,14 @@
-<h1>Overview</h1>
+# Overview
 Problem: The current UH ITS AskUs webpage has an outdated search system which makes it difficult for users to find the answers that they are looking for. Simple searches like "How do I connect to the wifi?", gives out a list of articles for the user to look through. This can be very time consuming for users to use just to find an answer to a simple question. Because of the non-user friendly design of the current ITS website, many users go to a Help Desk assistant instead of using the current Ask Us search bar.
 
 Solution: Our team will create a ChatBot with the use of modern AI tools that will improve on the current search functionality. This tool will allow users to find the answers they need using conversational language without the need for a Help Desk assistant.
 
-<h1>User's Guide</h1>
+# Links
+- [GitHub Organization]([https://github.com/darkmode-askus])
+- [Team Contract]([https://docs.google.com/document/d/10KI7QzybiLFSjhUuJa4Rv9LNcAiDDKtMt7nOhDZN9LM/edit?usp=sharing])
+- [M1 Project page]([https://github.com/orgs/darkmode-askus/projects/6])
+
+# User's Guide
 
 ## Landing
 Here the user is able to receive announcements and ITS resources that they can access.
