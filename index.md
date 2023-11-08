@@ -34,3 +34,5 @@ Users will able to post their experiences or issues with the chatbot. The users 
 Here users are able to report any issues or inaccurate answers with the AI chat bot.
 <img src="public/report.png">
 
+# Team
+This application is designed, implemented, and maintained by [Kaylee Agorilla]([https://github.com/kayleeagorilla]), [Malisa Lo]([https://github.com/malisalo]), and [Micah Tilton]([https://github.com/micahtilton]).
