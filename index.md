@@ -4,9 +4,9 @@ Problem: The current UH ITS AskUs webpage has an outdated search system which ma
 Solution: Our team will create a ChatBot with the use of modern AI tools that will improve on the current search functionality. This tool will allow users to find the answers they need using conversational language without the need for a Help Desk assistant.
 
 # Links
-- [GitHub Organization]([https://github.com/darkmode-askus])
-- [Team Contract]([https://docs.google.com/document/d/10KI7QzybiLFSjhUuJa4Rv9LNcAiDDKtMt7nOhDZN9LM/edit?usp=sharing])
-- [M1 Project page]([https://github.com/orgs/darkmode-askus/projects/6])
+- [GitHub Organization]([https://github.com/darkmode-askus/])
+- [Team Contract]([https://docs.google.com/document/d/10KI7QzybiLFSjhUuJa4Rv9LNcAiDDKtMt7nOhDZN9LM/edit?usp=sharing/])
+- [M1 Project page]([https://github.com/orgs/darkmode-askus/projects/6/])
 
 # User's Guide
 
@@ -35,4 +35,4 @@ Here users are able to report any issues or inaccurate answers with the AI chat 
 <img src="public/report.png">
 
 # Team
-This application is designed, implemented, and maintained by [Kaylee Agorilla]([https://github.com/kayleeagorilla]), [Malisa Lo]([https://github.com/malisalo]), and [Micah Tilton]([https://github.com/micahtilton]).
+This application is designed, implemented, and maintained by [Kaylee Agorilla]([https://github.com/kayleeagorilla/]), [Malisa Lo]([https://github.com/malisalo/]), and [Micah Tilton]([https://github.com/micahtilton/]).
