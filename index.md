@@ -15,7 +15,7 @@ Here the user is able to receive announcements and ITS resources that they can a
 <img src="public/landing.png">
 
 ## Log In Page
-The user needs to login in order to use the chatbot and post questions on the FAQ page.
+The user needs to login in order to use the chatbot and post questions on the FAQ page. We are also thinking about making a separate log in for admins to use. 
 <img src="public/login.png">
 
 ## Chatbot
