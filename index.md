@@ -61,11 +61,11 @@ The development process conformed to [Issue Driven Project Management](https://c
 
 Our development history is displayed in the sections below.
 
-Milestone 1: Mockup development
-The goal of Milestone 1 was to create a set of HTML pages providing a mockup of the pages in the system.
+### Milestone 1: Mockup development
 
-Milestone 1 was managed using BowFolio GitHub Project Board M1:
+The goal of Milestone 1 is to improve the UI for the FAQ and report pages along with the chatbox. In addition, we plan to continue programming the chatbot AI and expand the databases to accomplish the bonus challenges for HACC. We also want to start on creating a mockup UI for the forum page and edit our README.md.
 
+<img src="public/m1-project-board.png">
 
 # Team
 
