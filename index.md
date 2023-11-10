@@ -3,7 +3,7 @@ Problem: The current UH ITS AskUs webpage has an outdated search system which ma
 
 Solution: Our team will create a ChatBot with the use of modern AI tools that will improve on the current search functionality. This tool will allow users to find the answers they need using conversational language without the need for a Help Desk assistant.
 
-# Links
+## Links
 - [GitHub Organization](https://github.com/darkmode-askus/)
 - [Team Contract](https://docs.google.com/document/d/10KI7QzybiLFSjhUuJa4Rv9LNcAiDDKtMt7nOhDZN9LM/edit?usp=sharing/)
 - [M1 Project page](https://github.com/orgs/darkmode-askus/projects/6/)
@@ -61,7 +61,7 @@ The development process conformed to [Issue Driven Project Management](https://c
 
 Our development history is displayed in the sections below.
 
-### Milestone 1: Mockup development
+## Milestone 1: Mockup development
 
 The goal of Milestone 1 is to improve the UI for the FAQ and report pages along with the chatbox. In addition, we plan to continue programming the chatbot AI and expand the databases to accomplish the bonus challenges for HACC. We also want to start on creating a mockup UI for the forum page and edit our README.md.
 
