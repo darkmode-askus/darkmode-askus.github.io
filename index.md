@@ -10,29 +10,63 @@ Solution: Our team will create a ChatBot with the use of modern AI tools that wi
 
 # User's Guide
 
-## Landing
-Here the user is able to receive announcements and ITS resources that they can access.
+This section provides a walkthrough of the user interface and its capabilities.
+
+
+### Landing
+
+The landing page is presented to users and is what they see when they first load the application. Here users are able to receive announcements and ITS resources that they can access. 
+
 <img src="public/landing.png">
 
-## Log In Page
-The user needs to login in order to use the chatbot and post questions on the FAQ page. We are also thinking about making a separate log in for admins to use. 
+### Log In Page
+
+The user needs to login in order to use the chatbot and report any messages from the chatbot. Admins can also login to view the FAQ or report page and make any modifications. 
+
 <img src="public/login.png">
 
-## Chatbot
-Here the user can ask the chatbot any questions relating to ITS. The chatbot will produce an answer from the ITS documents and send it to the user.
+### Chatbot
+
+Users can ask the chatbot any questions relating to ITS. The chatbot will produce an answer from the ITS documents and send it to the user.
+
 <img src="public/chatbot.png">
 
-## FAQ Page
-All of the frequently asked questions and answers will be posted on this page. Answers will be provided by the admin.
+### FAQ Page
+
+All of the frequently asked questions and answers will be posted on this page. Answers will be provided by the admin. Admins have the ability to edit any existing FAQs or add a new one.
+
 <img src="public/faq.png">
 
-## Forum Page
-Users will able to post their experiences or issues with the chatbot. The users can also post additional ITS questions that require more assistance. These posts can be answered by other users at UH. 
+### Forum Page
+
+Users will able to post their experiences or issues with the chatbot. The users can also post additional ITS questions that require more assistance. These posts can be answered by other users, faculty, or admins at UH. Admins have the additional capability to delete or modify any posts.
+
 <img src="public/forum.png">
 
-## Report Page
-Here users are able to report any issues or inaccurate answers with the AI chat bot.
+### Report Page
+
+Here users are able to report any issues or inaccurate answers with the AI chatbot. Admins can see these reports and have the choice to resolve them or simply delete it.
+
 <img src="public/report.png">
 
+# Development History
+
+The development process conformed to [Issue Driven Project Management](https://courses.ics.hawaii.edu/ics314f19/modules/project-management/) practices. In quick summary:
+
+- Development consists of a sequence of Milestones with each Milestone holds a set of tasks.
+- Each task is added, assigned to a single developer, and kept track of using a GitHub Issue.
+- The work to accomplish each task has its own git branch with the name "issue-XX", XX represents the number of the issue.
+- Once the task has been completed, the issues gets closed and the branch will be merged into main.
+- The GitHub Project board for each Milestone organizes our tasks into 3 states, todo, in progress, and complete.
+
+Our development history is displayed in the sections below.
+
+Milestone 1: Mockup development
+The goal of Milestone 1 was to create a set of HTML pages providing a mockup of the pages in the system.
+
+Milestone 1 was managed using BowFolio GitHub Project Board M1:
+
+
 # Team
+
 This application is designed, implemented, and maintained by [Kaylee Agorilla](https://kayleeagorilla.github.io/), [Malisa Lo](https://malisalo.github.io/), and [Micah Tilton](https://micahtilton.github.io/).
