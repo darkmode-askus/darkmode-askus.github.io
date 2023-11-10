@@ -65,6 +65,7 @@ Our development history is displayed in the sections below.
 
 The goal of Milestone 1 is to improve the UI for the FAQ and report pages along with the chatbox. In addition, we plan to continue programming the chatbot AI and expand the databases to accomplish the bonus challenges for HACC. We also want to start on creating a mockup UI for the forum page and edit our README.md.
 
+### Milestone 1 was managed using [GitHub Project Board M1](https://github.com/orgs/darkmode-askus/projects/6/views/1):
 <img src="public/m1-project-board.png">
 
 # Team
