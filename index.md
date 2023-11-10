@@ -1,4 +1,6 @@
-# AskUs
+# Team DarkMode ITS AskUs (HACC)
+
+<hr/>
 
 ## Table of contents
 
@@ -6,6 +8,8 @@
 * [Links](#links)
 * [Development History](#development-history)
 * [Team](#team)
+
+<hr/>
 
 # Overview
 Problem: The current UH ITS AskUs webpage has an outdated search system which makes it difficult for users to find the answers that they are looking for. Simple searches like "How do I connect to the wifi?", gives out a list of articles for the user to look through. This can be very time consuming for users to use just to find an answer to a simple question. Because of the non-user friendly design of the current ITS website, many users go to a Help Desk assistant instead of using the current Ask Us search bar.
@@ -75,8 +79,9 @@ Our development history is displayed in the sections below.
 The goal of Milestone 1 is to improve the UI for the FAQ and report pages along with the chatbox. In addition, we plan to continue programming the chatbot AI and expand the databases to accomplish the bonus challenges for HACC. We also want to start on creating a mockup UI for the forum page and edit our README.md.
 
 ### Milestone 1 was managed using [GitHub Project Board M1](https://github.com/orgs/darkmode-askus/projects/6/views/1):
+
 <img src="public/m1-project-board.png">
 
 # Team
 
-This application is designed, implemented, and maintained by [Kaylee Agorilla](https://kayleeagorilla.github.io/), [Malisa Lo](https://malisalo.github.io/), and [Micah Tilton](https://micahtilton.github.io/).
+This application is designed, implemented, and maintained by team DarkMode which consists of [Kaylee Agorilla](https://kayleeagorilla.github.io/), [Malisa Lo](https://malisalo.github.io/), and [Micah Tilton](https://micahtilton.github.io/).
