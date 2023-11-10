@@ -1,3 +1,12 @@
+# AskUs
+
+## Table of contents
+
+* [Overview](#overview)
+* [Links](#links)
+* [Development History](#development-history)
+* [Team](#team)
+
 # Overview
 Problem: The current UH ITS AskUs webpage has an outdated search system which makes it difficult for users to find the answers that they are looking for. Simple searches like "How do I connect to the wifi?", gives out a list of articles for the user to look through. This can be very time consuming for users to use just to find an answer to a simple question. Because of the non-user friendly design of the current ITS website, many users go to a Help Desk assistant instead of using the current Ask Us search bar.
 
