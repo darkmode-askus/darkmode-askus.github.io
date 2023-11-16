@@ -1,5 +1,5 @@
-title: ITS Ask Us ChatBot
-description: An AI ChatBot that answers ITS related questions.
+#title: ITS Ask Us ChatBot
+#description: An AI ChatBot that answers ITS related questions.
 google_analytics:
 show_downloads: true
 remote_theme: pages-themes/midnight@v0.2.0
