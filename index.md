@@ -60,7 +60,7 @@ Users will able to post their experiences or issues with the chatbot. The users 
 
 Here users are able to report any issues or inaccurate answers with the AI chatbot. Admins can see these reports and have the choice to resolve them or simply delete it.
 
-<img src="public/report.png">
+<img src="public/reports.png">
 
 # Development History
 
