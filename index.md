@@ -96,7 +96,7 @@ The goal of Milestone 1 is to improve the UI for the FAQ and report pages along 
 
 The goal of Milestone 2 is to focus on creating the Forums page and adding a 'Add Forum' button. We also plan to clean up our previous code.
 
-#### Milestone 2 was managed using GitHub [GitHub Project Board M2]
+#### Milestone 2 was managed using [GitHub Project Board M2]
 (https://github.com/orgs/darkmode-askus/projects/7/views/1):  
 
 <img src="public/m2-project-board.png">
