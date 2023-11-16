@@ -24,7 +24,7 @@ Solution: Our team will create a ChatBot with the use of modern AI tools that wi
 ## Links
 - [GitHub Organization](https://github.com/darkmode-askus/)
 - [Team Contract](https://docs.google.com/document/d/10KI7QzybiLFSjhUuJa4Rv9LNcAiDDKtMt7nOhDZN9LM/edit?usp=sharing/)
-- [M1 Project page](https://github.com/orgs/darkmode-askus/projects/6/)
+- [Link to Deployed Application](http://143.198.151.26/)
 
 # User's Guide
 
@@ -86,9 +86,9 @@ The development process conformed to [Issue Driven Project Management](https://c
 
 Our development history is displayed in the sections below.
 
-### Milestone 1: Mockup development
+### Milestone 1:
 
-The goal of Milestone 1 is to improve the UI for the FAQ and report pages along with the chatbox. In addition, we plan to continue programming the chatbot AI and expand the databases to accomplish the bonus challenges for HACC. We also want to start on creating a mockup UI for the forum page and edit our README.md.
+The goal of Milestone 1 is to improve the UI for the FAQ and report pages along with the chatbox. In addition, we plan to continue programming the chatbot AI by expanding the databases to accomplish the bonus challenges for HACC and focus on prompt injections. We also finalized our README.md and updated our GitHub Pages.
 
 #### Milestone 1 was managed using [GitHub Project Board M1](https://github.com/orgs/darkmode-askus/projects/6/views/1):
 
