@@ -1,4 +1,8 @@
-# Team DarkMode ITS AskUs (HACC)
+<div align="center">
+    <img src="public/Hoku-logo.png" width="200">
+    <h1>Ask Hoku</h1>
+    <h3>Team DarkMode - ITS AskUs (HACC)</h3>
+</div>
 
 <hr/>
 
@@ -6,7 +10,8 @@
 
 * [Overview](#overview)
 * [Links](#links)
-* [Development History](#development-history)
+* [User's Guide](#users-guide)
+* [Deployment](#deployment)
 * [Team](#team)
 
 <hr/>
