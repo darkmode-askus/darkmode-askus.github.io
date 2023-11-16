@@ -82,13 +82,6 @@ The development process conformed to [Issue Driven Project Management](https://c
 - Once the task has been completed, the issues gets closed and the branch will be merged into main.
 - The GitHub Project board for each Milestone organizes our tasks into 3 states, todo, in progress, and complete.
 
-Milestone 2:
-The goal of Milestone 2 is to focus on creating the Forums page and adding a 'Add Forum' button. We also plan to clean up our previous code.
-
-#### Milestone 2 was managed using GitHub Project Board M2:
-
-<img src="public/m2-project-board.png">
-
 Our development history is displayed in the sections below.
 
 ### Milestone 1:
@@ -99,6 +92,13 @@ The goal of Milestone 1 is to improve the UI for the FAQ and report pages along 
 
 <img src="public/m1-project-board.png">
 
-# Team
+### Milestone 2:  
 
+The goal of Milestone 2 is to focus on creating the Forums page and adding a 'Add Forum' button. We also plan to clean up our previous code.
+
+#### Milestone 2 was managed using GitHub Project Board M2:
+
+<img src="public/m2-project-board.png">
+
+# Team  
 This application is designed, implemented, and maintained by team DarkMode which consists of [Kaylee Agorilla](https://kayleeagorilla.github.io/), [Malisa Lo](https://malisalo.github.io/), and [Micah Tilton](https://micahtilton.github.io/).
