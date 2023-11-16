@@ -62,7 +62,12 @@ Here users are able to report any issues or inaccurate answers with the AI chatb
 
 <img src="public/reports.png">
 
-# Development History
+# Deployment
+
+Our application was deployed using Digital Ocean. The link to our application is [here](http://143.198.151.26/).
+
+
+## Development History
 
 The development process conformed to [Issue Driven Project Management](https://courses.ics.hawaii.edu/ics314f19/modules/project-management/) practices. In quick summary:
 
@@ -72,13 +77,15 @@ The development process conformed to [Issue Driven Project Management](https://c
 - Once the task has been completed, the issues gets closed and the branch will be merged into main.
 - The GitHub Project board for each Milestone organizes our tasks into 3 states, todo, in progress, and complete.
 
+
+
 Our development history is displayed in the sections below.
 
-## Milestone 1: Mockup development
+### Milestone 1: Mockup development
 
 The goal of Milestone 1 is to improve the UI for the FAQ and report pages along with the chatbox. In addition, we plan to continue programming the chatbot AI and expand the databases to accomplish the bonus challenges for HACC. We also want to start on creating a mockup UI for the forum page and edit our README.md.
 
-### Milestone 1 was managed using [GitHub Project Board M1](https://github.com/orgs/darkmode-askus/projects/6/views/1):
+#### Milestone 1 was managed using [GitHub Project Board M1](https://github.com/orgs/darkmode-askus/projects/6/views/1):
 
 <img src="public/m1-project-board.png">
 
