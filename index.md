@@ -163,5 +163,13 @@ The goal of Milestone 2 is to focus on creating the Forums page and adding a 'Ad
 
 <img src="public/m2-project-board.png">
 
+### Milestone 3:
+
+The goal of Milestone 3 is to finalize the Forums page and implement Google OAuth for users to login with their hawaii.edu account.
+
+#### Milestone 3 was managed using [GitHub Project Board M3](https://github.com/orgs/darkmode-askus/projects/8):
+
+<img src="public/m3-project-board.png">
+
 # Team  
 This application is designed, implemented, and maintained by team DarkMode which consists of [Kaylee Agorilla](https://kayleeagorilla.github.io/), [Malisa Lo](https://malisalo.github.io/), and [Micah Tilton](https://micahtilton.github.io/).
