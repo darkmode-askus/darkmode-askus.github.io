@@ -67,6 +67,69 @@ Here users are able to report any issues or inaccurate answers with the AI chatb
 
 <img src="public/reports.png">
 
+# Developer's Guide
+
+This section will guide Meteor developers through the process of downloading, installing, and running for those who wish to use our code and modify the system.
+
+## Installation
+
+First, [install Meteor](https://www.meteor.com/install).
+
+Second, visit the [Ask Hoku application github page](https://github.com/darkmode-askus/darkmode-askus), and click the "Use this template" button to make a copy of this application and create your own repository. Then download the copy of the repo to your local computer.
+
+Third, cd into the darkmode-askus/app directory and install libraries using:
+```
+$ meteor npm install
+```
+
+Fourth, run the system with:
+```
+$ meteor npm run start
+```
+
+The application will appear at [http://localhost:3000](http://localhost:3000) if all goes well.
+
+## Reset project
+
+If you wish to reset the project, run the following commands:
+```
+cd app
+meteor reset
+meteor npm run start
+```
+
+## Create Meteor settings directory
+
+To create the Meteor settings directory, run the following commands:
+```
+cd app
+mkdir config
+cd config
+touch settings.development.json
+```
+
+## Python venv setup
+
+To create the Python venv, run the following commands:
+```
+cd data-extraction
+python3 -m venv venv
+source venv/bin/activate
+pip3 install -r requirements.txt
+```
+
+## Starting Flask server
+
+To start the Flask server, run the following commands:
+```
+cd api
+python main.py
+```
+
+# Diagram
+
+<img src="public/diagram.png">
+
 # Deployment
 
 Our application was deployed using Digital Ocean. The link to our application is [here](http://143.198.151.26/).
