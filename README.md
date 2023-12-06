@@ -1,1 +1,1 @@
-# ITSAskUs
+This repo contains the documentation for Ask Hoku. See [index.md](index.md) for the source, or go to [https://darkmode-askus.github.io/](https://darkmode-askus.github.io/).
