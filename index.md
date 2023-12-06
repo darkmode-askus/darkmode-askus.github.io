@@ -30,7 +30,6 @@ Solution: Our team will create a ChatBot with the use of modern AI tools that wi
 
 This section provides a walkthrough of the user interface and its capabilities.
 
-
 ### Landing
 
 The landing page is presented to users and is what they see when they first load the application. Here users are able to receive announcements and ITS resources that they can access. 
@@ -89,42 +88,56 @@ $ meteor npm run start
 
 The application will appear at [http://localhost:3000](http://localhost:3000) if all goes well.
 
+If any errors occur during the installation process and you are unable to run the application at [http://localhost:3000](http://localhost:3000), then simply stop the application from running and start it again by following these commands:
+```
+$ control+c
+$ meteor npm run start
+```
+
 ## Reset project
 
 If you wish to reset the project, run the following commands:
 ```
-cd app
-meteor reset
-meteor npm run start
+$ cd app
+$ meteor reset
+$ meteor npm run start
 ```
 
 ## Create Meteor settings directory
 
 To create the Meteor settings directory, run the following commands:
 ```
-cd app
-mkdir config
-cd config
-touch settings.development.json
+$ cd app
+$ mkdir config
+$ cd config
+$ touch settings.development.json
 ```
 
 ## Python venv setup
 
 To create the Python venv, run the following commands:
 ```
-cd data-extraction
-python3 -m venv venv
-source venv/bin/activate
-pip3 install -r requirements.txt
+$ cd data-extraction
+$ python3 -m venv venv
+$ source venv/bin/activate
+$ pip3 install -r requirements.txt
 ```
 
 ## Starting Flask server
 
 To start the Flask server, run the following commands:
 ```
-cd api
-python main.py
+$ cd api
+$ python main.py
 ```
+
+## Continuous Integration
+
+[![darkmode-askus](https://github.com/darkmode-askus/darkmode-askus/actions/workflows/ci.yml/badge.svg)](https://github.com/darkmode-askus/darkmode-askus/actions/workflows/ci.yml)
+
+Ask Hoku uses [GitHub Actions](https://docs.github.com/en/actions) to automatically run and check for any errors each time a commit is made to the default branch. You can see the results of all recent “workflows” at [https://github.com/darkmode-askus/darkmode-askus/actions](https://github.com/darkmode-askus/darkmode-askus/actions).
+
+The workflow definition file is located at [.github/workflows/ci.yml](https://github.com/darkmode-askus/darkmode-askus/blob/main/.github/workflows/ci.yml) and is easy to implement.
 
 # Diagram
 
