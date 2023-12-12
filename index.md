@@ -75,6 +75,20 @@ Here users are able to report any issues or inaccurate answers with the AI chatb
 
 # Community Feedback
 
+The feedback on AskHoku was generally positive regarding the design, user experience, and chatbot responses to ITS-related questions. Some users appreciated Hoku's creative design and the website's easy navigation. Users found it impressive how Hoku understands conversational language and provides clear, concise responses. However, there are suggestions for improving our community forum page. Some users recommended implementing a 'like' system and filters for easier navigation of forum posts. Additionally, users wanted the ability to save their favorite forum posts to their accounts for future reference. Overall, while users value Hoku's helpfulness and intuitive design, some suggest enhancing the forum's functionality and user experience.
+
+### Feedback Comments:
+
+- "I think Hoku's design is cute and creative! The web design for AskHoku was sleek and easy to navigate. It was fast and easy to get help for my everyday ITS problems."
+
+- "It's impressive how Hoku understands conversational text. It's much easier and quicker to use compared to the current UH system's ITS Ask Us page. I also like the links to articles for more information."
+
+- "Hoku provides great ITS-related information. It's overall easy to use, but I wish the forum page had a 'like' system and filter option. It's a bit difficult to navigate."
+
+- "Hoku was very helpful in finding solutions to my ITS problems! I liked how Hoku greeted users upon visiting the page. It makes the chatbot easy to spot, and the website's design is very self-explanatory. The forum page was helpful, but I wish I could hide comments as it can get crowded."
+
+- "It's cool to see a chatbot programmed specifically for ITS questions. I liked the character you gave Hoku; it's pretty cute. My only advice is to add a way to 'like' and save forum posts to accounts. Currently, there's no option to save favorite forum posts, requiring scrolling through all of them to find specific ones."
+
 We are interested in your experience using Ask Hoku! Tell us any feedback you have for us by taking a couple of minutes to fill out the [Ask Hoku Feedback Form](https://docs.google.com/forms/d/e/1FAIpQLSccZIieXWxG5SDq2Kx0qS6MaKYGX9pWmV9jYPPGtBiyM8aWYw/viewform). It contains only five short questions and will help us understand how to improve the system.
 
 # Developer's Guide
