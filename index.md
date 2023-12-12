@@ -18,10 +18,6 @@
     <img src="public/Hoku-logo.png" width="200">
     <h1>Ask Hoku</h1>
     <h4>Team DarkMode - ITS AskUs (HACC)</h4>
-
-[![darkmode-askus](https://github.com/darkmode-askus/darkmode-askus/actions/workflows/ci.yml/badge.svg)](https://github.com/darkmode-askus/darkmode-askus/actions/workflows/ci.yml)
-
-
 </div>
 
 # Overview
