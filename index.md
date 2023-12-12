@@ -185,7 +185,8 @@ A prompt injection is a type of cyberattack on an AI system designed to enable t
 - A character limit is put on the prompt to avoid complicated prompt injection attacks.
 
 - Only contexts that have a similarity of 0.8 (1.0 being most similar) or higher are considered. This means that if the user's question is not similar to any data in the database, a request to OpenAI's GPT 3.5 model is not made. In this case, a prompt injection is not possible.
-- We prompt Hoku with this
+  
+- We prompt Hoku with this:
 ```
 You are Hoku, an AI chat assistant to help University of Hawaii students and staff. 
 You give at most 3 sentence answers in the form of a text message. 
@@ -194,9 +195,13 @@ You MUST ONLY give information based on the context above.
 if the question can't be answered based ONLY on the context above, say 
 "I'm sorry, I don't have the answer to that."
 ```
+
 - No prompt is perfect but this is a decent way to get Hoku to respond with  information based only on the data provided in the prompt.
+  
 - Hoku's response is limited to a max of 250 tokens. No prompt injection could make Hoku ignore this max token limit. It makes it harder for attackers to receive tons of data from Hoku at once.
+  
 - A report system was created to allow users to report Hoku's responses for inaccurate, inadequate, or possibly harmful information. These reports can be resolved by ITS admins which then get inserted into a curated database of questions and answers. When the same question is asked, Hoku uses the updated information.
+  
 - A Naive Bayes TF-IDF prompt injection classifier was trained on a dataset of roughly 600 labeled prompts. This model is being hosted on a Flask API endpoint. Hoku will first check if a user's question is likely to be a prompt injection and if so, she will not respond. Data set collected from [here](https://huggingface.co/datasets/deepset/prompt-injections/tree/main/data) with no modifications.
 
 ## Managing data access
@@ -213,7 +218,7 @@ Even if prompt injections were made impossible and unauthorized data access is p
 
 This problem could be solved by a self-hosted LLM that Manoa would run on site. This does have its own problems, cost being one of them. But at least we would know exactly how our data is managed.
 
-### For a full list of scraped websites, [Click Here](https://github.com/micahtilton/hacc-askus/blob/main/data-extraction/data/seen_urls.txt)
+## For a full list of scraped websites, [Click Here](https://github.com/micahtilton/hacc-askus/blob/main/data-extraction/data/seen_urls.txt)
 
 # Deployment
 
