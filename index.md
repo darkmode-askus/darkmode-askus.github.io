@@ -5,6 +5,10 @@
 * [Overview](#overview)
 * [Links](#links)
 * [User's Guide](#users-guide)
+* [Community Feedback](#community-feedback)
+* [Developer's Guide](#developers-guide)
+* [Continuous Integration](#continuous-integration)
+* [Diagram](#diagram)
 * [Deployment](#deployment)
 * [Team](#team)
 
@@ -65,6 +69,10 @@ Users will able to post their experiences or issues with the chatbot. The users 
 Here users are able to report any issues or inaccurate answers with the AI chatbot. Admins can see these reports and have the choice to resolve them or simply delete it.
 
 <img src="public/reports.png">
+
+# Community Feedback
+
+We are interested in your experience using Ask Hoku! Tell us any feedback you have for us by taking a couple of minutes to fill out the [Ask Hoku Feedback Form](https://docs.google.com/forms/d/e/1FAIpQLSccZIieXWxG5SDq2Kx0qS6MaKYGX9pWmV9jYPPGtBiyM8aWYw/viewform). It contains only five short questions and will help us understand how to improve the system.
 
 # Developer's Guide
 
@@ -140,6 +148,8 @@ Ask Hoku uses [GitHub Actions](https://docs.github.com/en/actions) to automatica
 The workflow definition file is located at [.github/workflows/ci.yml](https://github.com/darkmode-askus/darkmode-askus/blob/main/.github/workflows/ci.yml) and is easy to implement.
 
 # Diagram
+
+The diagram below shows how both the front and backend work hand in hand with each other to give users the best experience possible. It also shows how Hoku proccesses the user's input and how it responds back to the user. 
 
 <img src="public/diagram.png">
 
