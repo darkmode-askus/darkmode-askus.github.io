@@ -17,7 +17,11 @@
 <div align="center">
     <img src="public/Hoku-logo.png" width="200">
     <h1>Ask Hoku</h1>
-    <h3>Team DarkMode - ITS AskUs (HACC)</h3>
+    <h4>Team DarkMode - ITS AskUs (HACC)</h4>
+
+[![darkmode-askus](https://github.com/darkmode-askus/darkmode-askus/actions/workflows/ci.yml/badge.svg)](https://github.com/darkmode-askus/darkmode-askus/actions/workflows/ci.yml)
+
+
 </div>
 
 # Overview
@@ -95,12 +99,6 @@ $ meteor npm run start
 ```
 
 The application will appear at [http://localhost:3000](http://localhost:3000) if all goes well.
-
-If any errors occur during the installation process and you are unable to run the application at [http://localhost:3000](http://localhost:3000), then simply stop the application from running and start it again by following these commands:
-```
-$ control+c
-$ meteor npm run start
-```
 
 ## Reset project
 
@@ -188,7 +186,7 @@ The goal of Milestone 2 is to focus on creating the Forums page and adding a 'Ad
 
 ### Milestone 3:
 
-The goal of Milestone 3 is to finalize the Forums page and implement Google OAuth for users to login with their hawaii.edu account.
+The goal of Milestone 3 is to finalize the Forums page by cleaning up the UI and fixing any issues in the backend. Users are able to add a forum or edit and delete their own forum posts. Admins can even delete any forum posts if it is inappropriate. We also finalized our GitHub Pages.
 
 #### Milestone 3 was managed using [GitHub Project Board M3](https://github.com/orgs/darkmode-askus/projects/8):
 
